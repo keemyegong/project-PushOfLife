@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushOfLife</string>
+    <string name="main_title">Push Of Life</string>
+    <string name="service_screen_text">워치 가이드</string>
+</resources>
